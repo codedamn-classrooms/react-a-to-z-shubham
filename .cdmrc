@@ -1,0 +1,4 @@
+terminals: ["yarn && yarn dev"]
+run-button: "yarn dev"
+tabs: ["index.js"]
+

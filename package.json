@@ -1,0 +1,16 @@
+{
+  "name": "taskmate",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "vite —-host --port 1337"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5",
+    "@vitejs/plugin-react": "^4.0.3"
+  }
+}
